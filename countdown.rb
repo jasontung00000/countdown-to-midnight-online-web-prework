@@ -2,6 +2,7 @@
 
 def countdown = 10
   while countdown > 1
-  puts 
+  puts "HAPPY NEW YEAR!"
+  countdown -=1
   
 end
